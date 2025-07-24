@@ -83,6 +83,7 @@
     "upvote",
     "varbinary",
     "varbit",
-    "vitest"
+    "vitest",
+    "moveonorg"
   ]
 }
